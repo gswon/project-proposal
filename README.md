@@ -37,7 +37,7 @@ Each news item would include:
 * Bullish, Bearish, or Neutral potential impact
 * Low, Medium, or High impact level
 * a confidence score
-* a short explanationååå
+* a short explanation
 * and a portfolio relevance level
 
 For example:
