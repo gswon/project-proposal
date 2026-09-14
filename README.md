@@ -1,10 +1,12 @@
-# Portfolio News Intelligence
+# Signalfolio
 
 ## What and Why?
 
-Portfolio News Intelligence is a mobile and web application that helps users understand which financial news is actually relevant to the assets they own or follow.
+Portfolio News Intelligence is a mobile-friendly web application that helps users understand which financial news is actually relevant to the assets they own or follow.
 
 There is already a huge amount of financial information available through news websites, social media, and investing apps. The problem is that most of it is not personalized. Users still have to figure out which events actually matter to their own portfolio.
+
+This costs real time and attention. An investor can scroll through dozens of headlines, spend half an hour doing it, and still miss the one story that affects a position they actually hold — while worrying about companies they do not own at all. The result is not just wasted time, but decisions made late or based on the wrong information.
 
 A user would enter the stocks, ETFs, or cryptocurrencies they own or follow. The system would analyze financial news, identify which assets may be affected, and explain the possible impact in a short and understandable way.
 
@@ -24,36 +26,32 @@ Our initial users would include NYU students, classmates, friends, and other peo
 
 ## How?
 
-Users would create a portfolio or watchlist by adding assets such as NVDA, AAPL, SPY, or BTC, and optionally enter the approximate weight of each asset.
+A user would create an account, then build a portfolio or watchlist by adding assets such as NVDA, AAPL, SPY, or BTC, and optionally enter the approximate weight of each asset. Holdings could be added, edited, or removed at any time, and a user could keep more than one list — for example, a real portfolio and a separate watchlist.
 
 The main page would show a personalized news feed ranked by relevance to the user's portfolio.
 
 Each news item would include:
 
-* a short summary,
-* directly and indirectly affected assets,
-* Bullish, Bearish, or Neutral potential impact,
-* Low, Medium, or High impact level,
-* a confidence score,
-* a short explanation,
-* and a portfolio relevance level.
+* a short summary
+* directly and indirectly affected assets
+* Bullish, Bearish, or Neutral potential impact
+* Low, Medium, or High impact level
+* a confidence score
+* a short explanation
+* and a portfolio relevance level
 
 For example:
 
-**NVIDIA announces new data-center partnership**
+> **NVIDIA announces new data-center partnership**
+>
+> - **Affected asset:** NVDA
+> - **Potential impact:** Bullish
+> - **Impact level:** High
+> - **Confidence:** 82%
+> - **Why:** The partnership may increase future demand for NVIDIA's data-center products.
+> - **Portfolio relevance:** High — NVDA represents 22% of your portfolio.
 
-**NVDA**
-Potential impact: Bullish
-Impact: High
-Confidence: 82%
-
-**Why:**
-The partnership may increase future demand for NVIDIA's data-center products.
-
-**Portfolio relevance:**
-High — NVDA represents 22% of your portfolio.
-
-Users could also search and filter news by asset or impact level and save stories for later.
+Users could also search and filter news by asset or impact level, and save stories for later.
 
 ## Scope
 
