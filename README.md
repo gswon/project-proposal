@@ -1,5 +1,3 @@
-# Project Proposal
-
 # Portfolio News Intelligence
 
 ## What and Why?
