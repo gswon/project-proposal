@@ -2,7 +2,7 @@
 
 ## What and Why?
 
-Portfolio News Intelligence is a mobile-friendly web application that helps users understand which financial news is actually relevant to the assets they own or follow.
+Signalfolio is a mobile-friendly web application that helps users understand which financial news is actually relevant to the assets they own or follow.
 
 There is already a huge amount of financial information available through news websites, social media, and investing apps. The problem is that most of it is not personalized. Users still have to figure out which events actually matter to their own portfolio.
 
