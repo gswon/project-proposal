@@ -37,19 +37,18 @@ Each news item would include:
 * Bullish, Bearish, or Neutral potential impact
 * Low, Medium, or High impact level
 * a confidence score
-* a short explanation
+* a short explanationååå
 * and a portfolio relevance level
 
 For example:
 
-> **NVIDIA announces new data-center partnership**
->
-> - **Affected asset:** NVDA
-> - **Potential impact:** Bullish
-> - **Impact level:** High
-> - **Confidence:** 82%
-> - **Why:** The partnership may increase future demand for NVIDIA's data-center products.
-> - **Portfolio relevance:** High — NVDA represents 22% of your portfolio.
+**NVIDIA announces new data-center partnership**
+- **Affected asset:** NVDA
+- **Potential impact:** Bullish
+- **Impact level:** High
+- **Confidence:** 82%
+- **Why:** The partnership may increase future demand for NVIDIA's data-center products.
+- **Portfolio relevance:** High — NVDA represents 22% of your portfolio.
 
 Users could also search and filter news by asset or impact level, and save stories for later.
 
